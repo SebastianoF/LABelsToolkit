@@ -1,3 +1,1 @@
-### LABelsToolkit is now nilabel
-
-Please check under [https://github.com/SebastianoF/nilabels](https://github.com/SebastianoF/nilabels).
+### LABelsToolkit is now [NiLabels](https://github.com/SebastianoF/nilabels)
